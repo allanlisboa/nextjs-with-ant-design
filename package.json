@@ -31,7 +31,7 @@
     "react-is": "^17.0.2"
   },
   "devDependencies": {
-    "@babel/core": "^7.14.8",
+    "@babel/core": "^7.18.9",
     "@babel/preset-typescript": "^7.14.5",
     "@storybook/addon-essentials": "^6.3.5",
     "@storybook/react": "^6.3.5",
